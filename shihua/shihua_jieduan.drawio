@@ -1,23 +1,29 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2177" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="1000" height="10" as="geometry" />
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-46" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#c2c2c2, #ededed);strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="1610" height="1450" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-5" value="Stage 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=4;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="1390" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-5" value="T+0" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-6" value="&lt;span&gt;Stage 3&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-6" value="&lt;span&gt;T+9&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="652.5" y="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-7" value="&lt;span&gt;Stage 2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-7" value="&lt;span&gt;T+2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
           <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="800" y="425" width="160" height="35" as="geometry" />
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ec97bd9e5d20128-8" target="4ec97bd9e5d20128-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;T+11&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
+          <mxGeometry x="967.5" y="425" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
@@ -26,22 +32,133 @@
           <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="722.5" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="1037.5" y="397" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;项目统筹环境&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-family: 仿宋; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;完成可研报告编写，通过可研评审和批复&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="430" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;项目设计环节&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-family: 仿宋; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;完成该阶段项目初设、详设及评审工作&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="250" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="430" width="215" height="120" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;项目开发与测试&lt;/h1&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; line-height: 23pt; font-family: 宋体; text-align: start;&quot; class=&quot;p&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;1、&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;完成吊装方案辅助编制、运输方案辅助编制、吊装方案辅助审查、运输方案辅助审查、施工周界安全管控、违章行为识别、人员跟踪定位、吊装专业知识库、运输专业知识库等子系统开发工作&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; line-height: 23pt; font-family: 宋体; text-align: start;&quot; class=&quot;p&quot;&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2、完成智能立杆硬件研发工作&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="430" width="410" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="773" y="250" width="215" height="120" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;子系统上线环节&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-family: 仿宋; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;完成该阶段系统部署、上线工作&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="250" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-2" value="&lt;span&gt;T+12&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="396" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-4" value="&lt;h1&gt;项目阶段验收&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-family: 仿宋; font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;完成该阶段项目整体验收&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="440" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-6" value="" style="line;strokeWidth=4;html=1;fillColor=#e1d5e7;fontSize=28;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="875" width="1210" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-7" value="&lt;span&gt;T+14&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=15;size=0.5093750000000015;verticalAlign=top;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1342" y="812" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=28;strokeWidth=3;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="869" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-9" value="&lt;h1&gt;项目设计环节&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-family: 仿宋; font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;完成第二阶段项目初设、详设评审&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1322" y="912" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-11" value="&lt;h1&gt;项目开发与测试&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;完成设备数据采&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;集&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;与智能诊断、环境数据采集与监测&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;、多模态风险预警、&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;设备&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;预测性&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;维修&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;智能领导驾驶舱&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;、&lt;/font&gt;HSE作业智能培训&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;、大件运输路径规划、吊装运输智能问答&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;小助手&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;、智能维保管理&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;等子系统及模块开&lt;/span&gt;&lt;span style=&quot;text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-weight: normal; font-family: 仿宋;&quot;&gt;发以及嵌入平台工作&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="590" width="375" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-12" value="&lt;span&gt;T+22&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=15;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=#9673a6;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="900" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=28;strokeWidth=3;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="870" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;strokeColor=light-dark(#004d99, #ededed);curved=0;endArrow=none;startFill=0;" edge="1" parent="1" source="4ec97bd9e5d20128-1" target="SHuIpdKcT1kZriQsqeFp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-17" value="&lt;span&gt;T+23&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=15;size=0.5093750000000015;verticalAlign=top;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="812" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=28;strokeWidth=3;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="810" y="869" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-19" value="&lt;h1&gt;子系统上线环节&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-family: 仿宋; font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;完成该阶段系统部署、上线工作&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="912" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-20" value="&lt;span&gt;T+24&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=15;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=#9673a6;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="900" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-21" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=28;strokeWidth=3;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="872" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-22" value="&lt;h1&gt;项目阶段验收&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: 仿宋; font-size: 12pt;&quot;&gt;完成&lt;/span&gt;&lt;span style=&quot;font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: 仿宋; font-size: 12pt;&quot;&gt;该阶段&lt;/span&gt;&lt;span style=&quot;font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: 仿宋; font-size: 12pt;&quot;&gt;项目整体验收&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="725" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-23" value="" style="line;strokeWidth=4;html=1;fillColor=#d5e8d4;fontSize=28;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1230" width="1260" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-24" value="&lt;span&gt;T+26&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=15;size=0.5093750000000015;verticalAlign=top;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="812" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-25" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=28;strokeWidth=3;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="869" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-26" value="&lt;h1&gt;项目设计环节&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-family: 仿宋; font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;完成第三阶段项目初设、详设评审&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="912" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#81b365, #ededed);strokeWidth=4;curved=0;endArrow=none;startFill=0;" edge="1" parent="1" source="SHuIpdKcT1kZriQsqeFp-6" target="SHuIpdKcT1kZriQsqeFp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-31" value="&lt;span&gt;T+34&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=15;size=0.5093750000000015;verticalAlign=top;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1169" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-32" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=28;strokeWidth=3;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="1224" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-33" value="&lt;h1&gt;项目开发与测试&lt;/h1&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; line-height: 23pt; font-family: 宋体; text-align: start;&quot; class=&quot;p&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;完成吊装&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;设备模型数据库&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;、运输&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;设备模型数据库&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;吊装&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;方案&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;三维&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;模拟、运输方案&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;三维&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;模拟、&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;吊绳缺陷监测&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;、起运设备&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;风险&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;监测、机器人智能巡检&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;、&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;智能体&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;数字人&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;等子系统及模块开&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;发以及嵌入平台工作&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; line-height: 23pt; font-family: 宋体; text-align: start;&quot; class=&quot;p&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋;&quot;&gt;完成吊绳缺陷监测装置、轴线板车货物位移监测装置硬件的研发工作&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-indent: 0px; margin-top: 0pt; margin-bottom: 0pt; line-height: 23pt; font-family: 宋体; text-align: start;&quot; class=&quot;p&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-family: 仿宋; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; face=&quot;仿宋&quot;&gt;3、&lt;/font&gt;&lt;font style=&quot;font-family: 仿宋; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; face=&quot;仿宋&quot;&gt;预留与炼化工程业务域总承包管理、采购、设计、&lt;/font&gt;&lt;font style=&quot;font-family: 仿宋; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; face=&quot;仿宋&quot;&gt;ERP等数据集成预留接口开发工作，实现关键数据集成与共享&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1259" width="670" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SHuIpdKcT1kZriQsqeFp-34" target="SHuIpdKcT1kZriQsqeFp-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-34" value="&lt;span&gt;T+35&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=15;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=#82b366;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="857.5" y="1254" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-35" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=28;strokeWidth=3;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="927.5" y="1226" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-36" value="&lt;h1&gt;子系统上线环节&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-family: 仿宋; font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;完成该阶段系统部署、上线工作&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1079" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-37" value="&lt;span&gt;T+36&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=15;size=0.5093750000000015;verticalAlign=top;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="1169" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SHuIpdKcT1kZriQsqeFp-38" target="SHuIpdKcT1kZriQsqeFp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-38" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=28;strokeWidth=3;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1197" y="1226" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-39" value="&lt;h1&gt;项目阶段验收&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: 仿宋;&quot;&gt;完成&lt;/span&gt;&lt;span style=&quot;font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: 仿宋;&quot;&gt;该阶段&lt;/span&gt;&lt;span style=&quot;font-weight: 400; text-align: start; text-indent: 44pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: 仿宋;&quot;&gt;项目整体验收&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1107" y="1269" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-42" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1389" y="1235" as="sourcePoint" />
+            <mxPoint x="1467" y="1235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHuIpdKcT1kZriQsqeFp-47" value="&lt;font style=&quot;font-size: 37px; color: light-dark(rgb(6, 117, 232), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;智能起重运输应用平台&lt;br&gt;里程碑计划&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="660" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
