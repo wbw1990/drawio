@@ -85,7 +85,7 @@
         <mxCell id="I_KxvgHxnJEYVX6ZV_vD-24" value="提交" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="887.5" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I_KxvgHxnJEYVX6ZV_vD-25" value="保存" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I_KxvgHxnJEYVX6ZV_vD-25" value="完成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="1122.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_KxvgHxnJEYVX6ZV_vD-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
