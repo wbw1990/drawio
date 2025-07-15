@@ -718,6 +718,9 @@
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-21" value="写字楼" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1620" y="410" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-24" value="审核中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="375" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
