@@ -721,6 +721,30 @@
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-24" value="审核中" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="375" y="740" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="870" width="600" height="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-33" value="部门科目配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="885" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-35" value="部门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="922.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-37" value="部门科目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1493" y="917.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="970" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-40" value="所有科目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="919" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1640" y="969" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1470" y="972.5" width="128" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
