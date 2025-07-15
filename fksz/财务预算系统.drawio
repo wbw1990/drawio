@@ -643,16 +643,16 @@
         <mxCell id="SKkXFKjDcY55AdcUD5MD-151" value="2025-5-3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2745" y="353.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKkXFKjDcY55AdcUD5MD-152" value="状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SKkXFKjDcY55AdcUD5MD-152" value="签订状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2800" y="164.88" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKkXFKjDcY55AdcUD5MD-153" value="未支付" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="SKkXFKjDcY55AdcUD5MD-153" value="未签订" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="2825" y="231.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKkXFKjDcY55AdcUD5MD-154" value="已支付" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="SKkXFKjDcY55AdcUD5MD-154" value="已签订" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="2825" y="293.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKkXFKjDcY55AdcUD5MD-155" value="已支付" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="SKkXFKjDcY55AdcUD5MD-155" value="已签订" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="2825" y="351.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKkXFKjDcY55AdcUD5MD-156" value="税后金额" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -747,6 +747,9 @@
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-45" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="552" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
