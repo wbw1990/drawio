@@ -317,7 +317,7 @@
           <mxGeometry x="1090" y="358.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKkXFKjDcY55AdcUD5MD-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3130" y="87.5" width="970" height="736" as="geometry" />
+          <mxGeometry x="3130" y="87.5" width="970" height="402.5" as="geometry" />
         </mxCell>
         <mxCell id="SKkXFKjDcY55AdcUD5MD-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3160" y="357" width="900" height="50" as="geometry" />
@@ -491,7 +491,7 @@
           <mxGeometry x="204" y="309" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKkXFKjDcY55AdcUD5MD-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1920" y="80" width="1120" height="330" as="geometry" />
+          <mxGeometry x="1920" y="80" width="1120" height="380" as="geometry" />
         </mxCell>
         <mxCell id="SKkXFKjDcY55AdcUD5MD-102" value="合同管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1920" y="100" width="130" height="30" as="geometry" />
