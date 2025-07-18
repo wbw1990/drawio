@@ -799,20 +799,20 @@
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-68" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="983" y="703.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RVIWVQ5VtEh46XHfdGVB-71" value="填充" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-71" value="维度填充" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="1007.5" width="85" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1325" width="530" height="355" as="geometry" />
+          <mxGeometry x="50" y="1325" width="520" height="355" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1380" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-74" value="科目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1395" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="1395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-76" value="项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1395" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="1395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="1460" width="477.5" height="40" as="geometry" />
@@ -825,6 +825,9 @@
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-80" value="维度填充" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1332.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-89" value="部门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="1395" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
