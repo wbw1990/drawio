@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-148" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="1179.75" width="370" height="405" as="geometry" />
+        </mxCell>
         <mxCell id="SKkXFKjDcY55AdcUD5MD-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="498.25" width="510" height="307.5" as="geometry" />
         </mxCell>
@@ -806,16 +809,16 @@
           <mxGeometry x="72.5" y="1395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="440" width="710" height="1060" as="geometry" />
+          <mxGeometry x="2170" y="590" width="710" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="RVIWVQ5VtEh46XHfdGVB-93" value="甲方：&lt;br&gt;联系地址：&lt;div&gt;联系人：&lt;br&gt;电话：&lt;/div&gt;&lt;div&gt;邮箱：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2188.5" y="562.25" width="160" height="98.5" as="geometry" />
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-93" value="收款方：&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2187.5" y="1176.5" width="160" height="98.5" as="geometry" />
         </mxCell>
-        <mxCell id="RVIWVQ5VtEh46XHfdGVB-95" value="乙方：&lt;br&gt;联系地址：&lt;div&gt;联系人：&lt;br&gt;电话：&lt;/div&gt;&lt;div&gt;邮箱：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2190" y="651.25" width="160" height="98.5" as="geometry" />
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-95" value="付款方（客商）：&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2395" y="1176.5" width="160" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-97" value="合同类型：采购合同/销售合同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="483.25" width="180" height="30" as="geometry" />
+          <mxGeometry x="2180" y="610.25" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-98" value="合同总金额：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2139" y="802.5" width="180" height="30" as="geometry" />
@@ -851,19 +854,19 @@
           <mxGeometry x="2695" y="977.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-111" value="开始时间：2025/01/01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2205" y="921.5" width="155" height="30" as="geometry" />
+          <mxGeometry x="2190" y="921.5" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-112" value="截止时间：2025/01/01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2385" y="922.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-113" value="合同编号：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2175" y="543.25" width="91" height="30" as="geometry" />
+          <mxGeometry x="2175" y="670.25" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-114" value="开票信息&lt;br&gt;公司名称：&lt;br&gt;纳税人识别号：&lt;br&gt;电话：&lt;br&gt;账号：&lt;div&gt;开户银行：&lt;br&gt;注册地址：&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="1185" width="150" height="140" as="geometry" />
+          <mxGeometry x="3081" y="1240" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-115" value="收款账号：&lt;br&gt;户名：&lt;br&gt;开户银行：&lt;br&gt;账号：" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="1320" width="150" height="80" as="geometry" />
+          <mxGeometry x="3085" y="1407" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-116" value="实际付款时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2510" y="976.37" width="90" height="30" as="geometry" />
@@ -872,10 +875,10 @@
           <mxGeometry x="2615" y="977.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-120" value="所属项目：35号地块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2167" y="739.25" width="163" height="30" as="geometry" />
+          <mxGeometry x="2166" y="749.75" width="163" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-121" value="所属科目：维护费" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2166" y="772.5" width="153" height="30" as="geometry" />
+          <mxGeometry x="2166" y="775.75" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-123" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2777.5" y="977.5" width="60" height="30" as="geometry" />
@@ -887,7 +890,7 @@
           <mxGeometry x="3420" y="104.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3410" y="492.5" width="710" height="617.5" as="geometry" />
+          <mxGeometry x="3410" y="492.5" width="640" height="617.5" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-127" value="所属项目：35号地块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3426" y="551.5" width="163" height="30" as="geometry" />
@@ -899,13 +902,13 @@
           <mxGeometry x="3431" y="513.25" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-146" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3439" y="750" width="191" height="230" as="geometry" />
+          <mxGeometry x="3439" y="750" width="191" height="270" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-130" value="选择合同：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3438.5" y="722.5" width="91.5" height="30" as="geometry" />
+          <mxGeometry x="3438.5" y="715.5" width="91.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-131" value="合同名称：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2175" y="513.25" width="91" height="30" as="geometry" />
+          <mxGeometry x="2175" y="640.25" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-132" value="预算总额：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3439" y="652.5" width="90.5" height="30" as="geometry" />
@@ -920,16 +923,16 @@
           <mxGeometry x="3433" y="765" width="187" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-139" value="保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2650" y="1425" width="120" height="60" as="geometry" />
+          <mxGeometry x="2730" y="1324.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-140" value="计划付款时间：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3449.5" y="810" width="91.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-141" value="付款比例：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3439.75" y="848.25" width="91.5" height="30" as="geometry" />
+          <mxGeometry x="3439.75" y="840" width="91.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-142" value="付款金额：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3439.75" y="891.5" width="91.5" height="30" as="geometry" />
+          <mxGeometry x="3438" y="870.87" width="91.5" height="28.25" as="geometry" />
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-143" value="实际付款金额：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3448.5" y="932.75" width="91.5" height="30" as="geometry" />
@@ -939,6 +942,18 @@
         </mxCell>
         <mxCell id="RVIWVQ5VtEh46XHfdGVB-145" value="付款金额：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3700" y="780" width="91.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-147" value="所属公司：数智公司" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2171" y="712.5" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-149" value="客商管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3081" y="1191" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-150" value="付款时间：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3448.5" y="974.75" width="91.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVIWVQ5VtEh46XHfdGVB-151" value="保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3910" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
